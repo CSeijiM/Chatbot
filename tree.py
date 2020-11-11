@@ -15,11 +15,13 @@ train = train.drop('lat',axis=1)
 train = train.drop('long',axis=1)
 train = train.drop('sqft_living15',axis=1)
 train = train.drop('sqft_lot15',axis=1)
+train = train.drop('sqft_above',axis=1)
+train = train.drop('sqft_basement',axis=1)
 train = train.iloc[0:300, 0:15]
 
 y_train = train['CARO_B']
 x_train = train.drop(['CARO_B'], axis=1).values
-decision_tree = tree.DecisionTreeClassifier(max_depth = 4)
+decision_tree = tree.DecisionTreeClassifier(max_depth = 5)
 print(train)
 decision_tree.fit(x_train, y_train)
 

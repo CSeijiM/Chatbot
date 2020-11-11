@@ -1,0 +1,30 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;sqft_living;SIM;2;NÃO;3
+2;bathrooms;SIM;4;NÃO;5
+3;grade;SIM;6;NÃO;7
+4;sqft_living;SIM;8;NÃO;9
+5;bedrooms;SIM;10;NÃO;11
+6;sqft_above;SIM;12;NÃO;13
+7;sqft_living;SIM;14;NÃO;15
+8;sqft_lot;SIM;16;NÃO;17
+9;price;SIM;18;NÃO;19
+10;bathrooms;SIM;20;NÃO;21
+11;sqft_above;SIM;22;NÃO;23
+12;price;SIM;24;NÃO;25
+13;NÓ FOLHA;Barato;;;
+14;sqft_above;SIM;26;NÃO;27
+15;price;SIM;28;NÃO;29
+16;NÓ FOLHA;Barato;;;
+17;NÓ FOLHA;Caro;;;
+18;NÓ FOLHA;Barato;;;
+19;NÓ FOLHA;Caro;;;
+20;NÓ FOLHA;Caro;;;
+21;NÓ FOLHA;Caro;;;
+22;NÓ FOLHA;Barato;;;
+23;NÓ FOLHA;Caro;;;
+24;NÓ FOLHA;Barato;;;
+25;NÓ FOLHA;Caro;;;
+26;NÓ FOLHA;Caro;;;
+27;NÓ FOLHA;Caro;;;
+28;NÓ FOLHA;Barato;;;
+29;NÓ FOLHA;Barato;;;
